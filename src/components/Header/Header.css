@@ -1,0 +1,7 @@
+.trapezium {
+  display: inline-block;
+  color: black;
+  background-color: rgb(0, 225, 255);
+  padding: 0 10px;
+  clip-path: polygon(20% 0, 80% 0, 100% 100%, 0% 100%);
+}
